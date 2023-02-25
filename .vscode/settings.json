@@ -10,7 +10,8 @@
         "**/.project": true,
         "**/.settings": true,
         "**/.factorypath": true,
-        "*.meta": true
+        "*.meta": true,
+        "**/*.meta": true
     },
     "explorerExclude.backup": {}
 }

@@ -2,7 +2,7 @@
   "name": "com.henrymartin5.openmarrow.sdk",
   "version": "0.3.7-1748",
   "displayName": "OpenMarrow SDK",
-  "description": "Marrow Software Development Kit. Used to create content with Pallets and Crates for Marrow based games.",
+  "description": "A fork of the Marrow SDK allowing for the creation of completely independent applications without the prerequisite of needing to own BONELAB.",
   "unity": "2021.3",
   "dependencies": {
     "com.unity.addressables": "1.19.18",
