@@ -1,7 +1,7 @@
 {
-  "name": "com.stresslevelzero.marrow.sdk",
+  "name": "com.henrymartin5.openmarrow.sdk",
   "version": "0.3.7-1748",
-  "displayName": "Marrow SDK",
+  "displayName": "OpenMarrow SDK",
   "description": "Marrow Software Development Kit. Used to create content with Pallets and Crates for Marrow based games.",
   "unity": "2021.3",
   "dependencies": {
@@ -19,12 +19,13 @@
   "keywords": [
     "slz",
     "stresslevelzero",
-    "marrow"
+    "marrow",
+    "openmarrow"
   ],
   "author": {
-    "name": "StressLevelZero",
-    "email": "contact@stresslevelzero.com",
-    "url": "http://www.stresslevelzero.com/"
+    "name": "HENRYMARTIN5",
+    "email": "henrymartin.co@outlook.com",
+    "url": "http://github.com/HENRYMARTIN5"
   },
   "unityRelease": "5f1",
   "hideInEditor": false
